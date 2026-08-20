@@ -1,11 +1,13 @@
-<p><small>Best View in <a href="https://github.com/settings/appearance">Light Mode</a> and Desktop Site (Recommended)</small></p><br/>
-
-![AI-Resume-Analyzer](https://socialify.git.ci/deepakpadhi986/AI-Resume-Analyzer/image?description=1&descriptionEditable=AI%20Resume%20Analyzer%20Project&font=Raleway&language=1&pattern=Plus&theme=Light)
+![AI-Resume-Analyzer](https://socialify.git.ci/deepakpadhi986/AI-Resume-Analyzer/image?description=1&descriptionEditable=AI%20Resume%20Analyzer%20-%20CHALAMSETTI%20SAI%20BHANU%20PRAKASH&font=Raleway&language=1&pattern=Plus&theme=Light)
 
 <div align="center">
-  <h1>🌴 AI RESUME ANALYZER 🌴</h1>
-  <p>A Tool for Resume Analysis, Predictions and Recommendations</p>
-  <p><strong>Project By: CHALAMSETTI SAI BHANU PRAKASH</strong></p>
+
+# 🤖 AI RESUME ANALYZER
+
+### A Tool for Resume Analysis, Predictions and Recommendations
+
+**Project By: CHALAMSETTI SAI BHANU PRAKASH**
+
   <!-- Badges -->
   <p>
     <img src="https://img.shields.io/github/last-commit/deepakpadhi986/AI-Resume-Analyzer" alt="last update" />
@@ -17,16 +19,27 @@
     </a>
   </p>
 
-## About the Project 
+  <p>
+    <a href="#about-the-project">About</a> •
+    <a href="#scope">Scope</a> •
+    <a href="#tech-stack-">Tech Stack</a> •
+    <a href="#features-">Features</a> •
+    <a href="#setup--installation-">Installation</a> •
+    <a href="#usage">Usage</a> •
+    <a href="#roadmap-">Roadmap</a> •
+    <a href="#preview-">Preview</a>
+  </p>
+
+## 📌 About the Project
 <div align="center">
     <br/><img src="https://raw.githubusercontent.com/deepakpadhi986/AI-Resume-Analyzer/main/screenshots/RESUME.png" alt="screenshot" /><br/><br/>
     <p align="justify"> 
-      A tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. 
+      **AI-powered resume analysis:** A tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. 
       And lastly show recommendations, predictions, analytics to the applicant / recruiter based on keyword matching.
     </p>
 </div>
 
-## Scope 
+## 🎯 Scope
 i. It can be used for getting all the resume data into a structured tabular format and csv as well, so that the organization can use those data for analytics purposes
 
 ii. By providing recommendations, predictions and overall score user can improve their resume and can keep on testing it on our tool
@@ -40,7 +53,7 @@ v. Also, to get analytics for roles which users are mostly looking for
 vi. To improve this tool by getting feedbacks
 
 <!-- TechStack -->
-## Tech Stack 🍻
+## 🛠️ Tech Stack
 <details>
   <summary>Frontend</summary>
   <ul>
@@ -78,7 +91,7 @@ vi. To improve this tool by getting feedbacks
 </details>
 
 <!-- Features -->
-## Features 🤦‍♂️
+## ✨ Features
 ### Client: -
 - Fetching Location and Miscellaneous Data
 
@@ -117,14 +130,14 @@ Using logical programs, it will recommend
 - Show overall ratings pie chart
 - Past user comments history 
 
-## Requirements 😅
+## 📦 Requirements
 ### Have these things installed to make your process smooth 
 1) Python (3.9.12) https://www.python.org/downloads/release/python-3912/
 2) MySQL https://www.mysql.com/downloads/
 3) Visual Studio Code **(Prefered Code Editor)** https://code.visualstudio.com/Download
 4) Visual Studio build tools for C++ https://aka.ms/vs/17/release/vs_BuildTools.exe
 
-## Setup & Installation 👀
+## ⚙️ Setup & Installation
 
 To run this project, perform the following tasks 😨
 
@@ -178,22 +191,22 @@ streamlit run App.py
 
 ```
 
-## Known Error 🤪
+## ⚠️ Known Error
 If ``GeocoderUnavailable`` error comes up then just check your internet connection and network speed
 
-## Issue While Installation and Set-up 🤧
+## 🧩 Installation & Setup Issue
 Check-out installation [Video](https://youtu.be/WFruijLC1Nc)
 
 Feel Free to <a href="mailto:dnoobnerd@gmail.com?subject=I%20have%20an%20issue%20while%20setup%2Finstalling%20of%20AI%20RESUME%20ANALYZER&body=Name%3A%20-%0D%0A%0D%0ADesignation%3A%20-%0D%0A%0D%0APlease%20describe%20your%20problem%20in%20brief%20with%20attached%20photos%20of%20error">Send mail</a>
 
-## Usage
+## 🚀 Usage
 - After the setup it will do stuff's automatically
 - You just need to upload a resume and see it's magic
 - Try first with my resume uploaded in ``Uploaded_Resumes`` folder
 - Admin userid is ``admin`` and password is ``admin@resume-analyzer``
 
 <!-- Roadmap -->
-## Roadmap 🛵
+## 🗺️ Roadmap
 * [x] Predict user experience level.
 * [x] Add resume scoring criteria for skills and projects.
 * [x] Added fields and recommendations for web, android, ios, data science.
@@ -201,7 +214,7 @@ Feel Free to <a href="mailto:dnoobnerd@gmail.com?subject=I%20have%20an%20issue%2
 * [x] Fetch more details from users resume.
 * [ ] View individual user details.
 
-## Contributing 🤘
+## 🤝 Contributing
 Pull requests are welcome. 
 
 For major changes, please open an issue first to discuss what you would like to change.
@@ -211,12 +224,14 @@ I've attached the <a href="https://github.com/deepakpadhi986/AI-Resume-Analyzer/
 If you want the full report of project
 <a href="mailto:dnoobnerd@gmail.com?subject=I%20Want%20The%20Project%20Report%20of%20AI-RESUME-ANALYZER%20(2022%20-%2023)&body=Here%20Are%20My%20Details%20%F0%9F%98%89%0D%0A%0D%0AFull%20Name%3A%20%0D%0A%0D%0AGitHub%20Profile%20%3A%20%0D%0A%0D%0AFrom%20where%20did%20you%20get%20to%20know%20about%20this%20project%3A%0D%0A%0D%0APurpose%20of%20asking%20project%20report%20(describe)%3A%0D%0A%0D%0A%0D%0AIf%20the%20above%20information%20satisfy%20your%20identity%20you%20will%20get%20the%20report%20to%20your%20email.">Email Me</a> ``it's FREE``
 
-## Acknowledgement 🤗
+## 🙏 Acknowledgement
 - <a href="https://www.linkedin.com/in/mrbriit/">Dr Bright</a> - <a href="https://www.udemy.com/course/the-full-stack-data-scientist-bootcamp/">(The Full Stack Data Scientist BootCamp)</a>
 - <a href="https://www.academia.edu/32543544/Resume_Parser_with_Natural_Language_Processing">Resume Parser with Natural Language Processing</a>
 - <a href="https://github.com/OmkarPathak/pyresparser">pyresparser</a>
 
-## Preview 👽
+---
+
+## 🖼️ Preview
 
 ### Client Side
 
