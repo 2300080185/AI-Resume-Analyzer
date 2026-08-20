@@ -34,7 +34,7 @@
 <div align="center">
     <br/><img src="https://raw.githubusercontent.com/deepakpadhi986/AI-Resume-Analyzer/main/screenshots/RESUME.png" alt="screenshot" /><br/><br/>
     <p align="justify"> 
-      **AI-powered resume analysis:** A tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. 
+      AI-powered resume analysis is  a tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. 
       And lastly show recommendations, predictions, analytics to the applicant / recruiter based on keyword matching.
     </p>
 </div>
