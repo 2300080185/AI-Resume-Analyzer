@@ -1,4 +1,4 @@
-![AI-Resume-Analyzer](https://socialify.git.ci/deepakpadhi986/AI-Resume-Analyzer/image?description=1&descriptionEditable=AI%20Resume%20Analyzer%20-%20CHALAMSETTI%20SAI%20BHANU%20PRAKASH&font=Raleway&language=1&pattern=Plus&theme=Light)
+![AI-Resume-Analyzer](https://socialify.git.ci/2300080185/AI-Resume-Analyzer/image?description=1&descriptionEditable=AI%20Resume%20Analyzer%20-%20CHALAMSETTI%20SAI%20BHANU%20PRAKASH&font=Raleway&language=1&pattern=Plus&theme=Light)
 
 <div align="center">
 
@@ -10,31 +10,35 @@
 
   <!-- Badges -->
   <p>
-    <img src="https://img.shields.io/github/last-commit/deepakpadhi986/AI-Resume-Analyzer" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/2300080185/AI-Resume-Analyzer" alt="last update" />
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="open source" />
-    <img src="https://img.shields.io/github/languages/top/deepakpadhi986/AI-Resume-Analyzer?color=red" alt="language" />
-    <img src="https://img.shields.io/github/languages/code-size/deepakpadhi986/AI-Resume-Analyzer?color=informational" alt="code size" />
-    <a href="https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/deepakpadhi986/AI-Resume-Analyzer.svg?color=yellow" alt="license" />
+    <img src="https://img.shields.io/github/languages/top/2300080185/AI-Resume-Analyzer?color=red" alt="language" />
+    <img src="https://img.shields.io/github/languages/code-size/2300080185/AI-Resume-Analyzer?color=informational" alt="code size" />
+    <a href="https://github.com/2300080185/AI-Resume-Analyzer/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/2300080185/AI-Resume-Analyzer.svg?color=yellow" alt="license" />
     </a>
   </p>
 
   <p>
     <a href="#about-the-project">About</a> •
     <a href="#scope">Scope</a> •
-    <a href="#tech-stack-">Tech Stack</a> •
-    <a href="#features-">Features</a> •
-    <a href="#setup--installation-">Installation</a> •
+    <a href="#tech-stack">Tech Stack</a> •
+    <a href="#features">Features</a> •
+    <a href="#requirements">Requirements</a> •
+    <a href="#setup--installation">Installation</a> •
     <a href="#usage">Usage</a> •
-    <a href="#roadmap-">Roadmap</a> •
-    <a href="#preview-">Preview</a>
+    <a href="#roadmap">Roadmap</a> •
+    <a href="#preview">Preview</a>
   </p>
+</div>
+
+---
 
 ## 📌 About the Project
 <div align="center">
-    <br/><img src="https://raw.githubusercontent.com/deepakpadhi986/AI-Resume-Analyzer/main/screenshots/RESUME.png" alt="screenshot" /><br/><br/>
-    <p align="justify"> 
-      AI-powered resume analysis is  a tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. 
+    <br/><img src="https://raw.githubusercontent.com/2300080185/AI-Resume-Analyzer/main/screenshots/RESUME.png" alt="screenshot" /><br/><br/>
+    <p align="justify">
+      <strong>AI-powered resume analysis:</strong> A tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. 
       And lastly show recommendations, predictions, analytics to the applicant / recruiter based on keyword matching.
     </p>
 </div>
@@ -143,7 +147,7 @@ To run this project, perform the following tasks 😨
 
 Download the code file manually or via git
 ```bash
-git clone https://github.com/deepakpadhi986/AI-Resume-Analyzer.git
+git clone https://github.com/2300080185/AI-Resume-Analyzer.git
 ```
 
 Create a virtual environment and activate it **(recommended)**
@@ -173,7 +177,7 @@ python -m spacy download en_core_web_sm
 After installation is finished create a Database ```cv```
 
 And change user credentials inside ```App.py```
-https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/17e1cdb207fef62557dc394f4158bda515e541fd/App/App.py#L95
+https://github.com/2300080185/AI-Resume-Analyzer/blob/17e1cdb207fef62557dc394f4158bda515e541fd/App/App.py#L95
 
 Go to ```venvapp\Lib\site-packages\pyresparser``` folder
 
@@ -197,7 +201,7 @@ If ``GeocoderUnavailable`` error comes up then just check your internet connecti
 ## 🧩 Installation & Setup Issue
 Check-out installation [Video](https://youtu.be/WFruijLC1Nc)
 
-Feel Free to <a href="mailto:dnoobnerd@gmail.com?subject=I%20have%20an%20issue%20while%20setup%2Finstalling%20of%20AI%20RESUME%20ANALYZER&body=Name%3A%20-%0D%0A%0D%0ADesignation%3A%20-%0D%0A%0D%0APlease%20describe%20your%20problem%20in%20brief%20with%20attached%20photos%20of%20error">Send mail</a>
+Feel Free to <a href="mailto:2300080185aidsh@gmail.com?subject=I%20have%20an%20issue%20while%20setup%2Finstalling%20of%20AI%20RESUME%20ANALYZER&body=Name%3A%20-%0D%0A%0D%0ADesignation%3A%20-%0D%0A%0D%0APlease%20describe%20your%20problem%20in%20brief%20with%20attached%20photos%20of%20error">Send mail</a>
 
 ## 🚀 Usage
 - After the setup it will do stuff's automatically
@@ -219,10 +223,10 @@ Pull requests are welcome.
 
 For major changes, please open an issue first to discuss what you would like to change.
 
-I've attached the <a href="https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/RESUME%20ANALYSER%20SYNOPSIS.pdf">synopsis</a> of the project
+I've attached the <a href="https://github.com/2300080185/AI-Resume-Analyzer/blob/main/RESUME%20ANALYSER%20SYNOPSIS.pdf">synopsis</a> of the project
 
 If you want the full report of project
-<a href="mailto:dnoobnerd@gmail.com?subject=I%20Want%20The%20Project%20Report%20of%20AI-RESUME-ANALYZER%20(2022%20-%2023)&body=Here%20Are%20My%20Details%20%F0%9F%98%89%0D%0A%0D%0AFull%20Name%3A%20%0D%0A%0D%0AGitHub%20Profile%20%3A%20%0D%0A%0D%0AFrom%20where%20did%20you%20get%20to%20know%20about%20this%20project%3A%0D%0A%0D%0APurpose%20of%20asking%20project%20report%20(describe)%3A%0D%0A%0D%0A%0D%0AIf%20the%20above%20information%20satisfy%20your%20identity%20you%20will%20get%20the%20report%20to%20your%20email.">Email Me</a> ``it's FREE``
+<a href="mailto:2300080185aidsh@gmail.com?subject=I%20Want%20The%20Project%20Report%20of%20AI-RESUME-ANALYZER%20(2022%20-%2023)&body=Here%20Are%20My%20Details%20%F0%9F%98%89%0D%0A%0D%0AFull%20Name%3A%20%0D%0A%0D%0AGitHub%20Profile%20%3A%20%0D%0A%0D%0AFrom%20where%20did%20you%20get%20to%20know%20about%20this%20project%3A%0D%0A%0D%0APurpose%20of%20asking%20project%20report%20(describe)%3A%0D%0A%0D%0A%0D%0AIf%20the%20above%20information%20satisfy%20your%20identity%20you%20will%20get%20the%20report%20to%20your%20email.">Email Me</a> ``it's FREE``
 
 ## 🙏 Acknowledgement
 - <a href="https://www.linkedin.com/in/mrbriit/">Dr Bright</a> - <a href="https://www.udemy.com/course/the-full-stack-data-scientist-bootcamp/">(The Full Stack Data Scientist BootCamp)</a>
@@ -237,62 +241,62 @@ If you want the full report of project
 
 **Main Screen**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/1-main-screen.png?raw=true)
+![Screenshot](https://github.com/2300080185/AI-Resume-Analyzer/blob/main/screenshots/user/1-main-screen.png?raw=true)
 
 **Resume Analysis**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/2-analysis.jpg?raw=true)
+![Screenshot](https://github.com/2300080185/AI-Resume-Analyzer/blob/main/screenshots/user/2-analysis.jpg?raw=true)
 
 **Skill Recommendation**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/3-recom.png?raw=true)
+![Screenshot](https://github.com/2300080185/AI-Resume-Analyzer/blob/main/screenshots/user/3-recom.png?raw=true)
 
 **Course Recommendation**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/4-recom.png?raw=true)
+![Screenshot](https://github.com/2300080185/AI-Resume-Analyzer/blob/main/screenshots/user/4-recom.png?raw=true)
 
 **Tips and Overall Score**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/5-tipsscore.png?raw=true)
+![Screenshot](https://github.com/2300080185/AI-Resume-Analyzer/blob/main/screenshots/user/5-tipsscore.png?raw=true)
 
 **Video Recommendation**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/6-recom.png?raw=true)
+![Screenshot](https://github.com/2300080185/AI-Resume-Analyzer/blob/main/screenshots/user/6-recom.png?raw=true)
 
 ### Feedback
 
 **Feedback Form**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/feedback/1-form.png?raw=true)
+![Screenshot](https://github.com/2300080185/AI-Resume-Analyzer/blob/main/screenshots/feedback/1-form.png?raw=true)
 
 **Overall Rating Analysis and Comment History**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/feedback/2-analytics.png?raw=true)
+![Screenshot](https://github.com/2300080185/AI-Resume-Analyzer/blob/main/screenshots/feedback/2-analytics.png?raw=true)
 
 ### Admin
 
 **Login**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/1-main-screen.png?raw=true)
+![Screenshot](https://github.com/2300080185/AI-Resume-Analyzer/blob/main/screenshots/admin/1-main-screen.png?raw=true)
 
 **User Count and it's data**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/2-user-data.png?raw=true)
+![Screenshot](https://github.com/2300080185/AI-Resume-Analyzer/blob/main/screenshots/admin/2-user-data.png?raw=true)
 
 **Exported csv file**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/3-user-datacsv.png?raw=true)
+![Screenshot](https://github.com/2300080185/AI-Resume-Analyzer/blob/main/screenshots/admin/3-user-datacsv.png?raw=true)
 
 **Feedback Data**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/4-feed-data.png?raw=true)
+![Screenshot](https://github.com/2300080185/AI-Resume-Analyzer/blob/main/screenshots/admin/4-feed-data.png?raw=true)
 
 **Pie Chart Analytical Representation of clusters**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/5-pieexp.png?raw=true)
+![Screenshot](https://github.com/2300080185/AI-Resume-Analyzer/blob/main/screenshots/admin/5-pieexp.png?raw=true)
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/6-piescre.jpg?raw=true)
+![Screenshot](https://github.com/2300080185/AI-Resume-Analyzer/blob/main/screenshots/admin/6-piescre.jpg?raw=true)
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/7-pielocation.png?raw=true)
+![Screenshot](https://github.com/2300080185/AI-Resume-Analyzer/blob/main/screenshots/admin/7-pielocation.png?raw=true)
 
 ### Built with 🤍 AI RESUME ANALYZER by CHALAMSETTI SAI BHANU PRAKASH
